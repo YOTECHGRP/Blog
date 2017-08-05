@@ -25,7 +25,7 @@ SECRET_KEY = 'a^16$h44i2q)$6h0f=+1$7^(o_tav-28a*0i43n-br2lq&e^!&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yotech.pythonanywhere.com/', 'localhost',]
 
 
 # Application definition
